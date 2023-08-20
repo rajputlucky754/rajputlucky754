@@ -1,4 +1,4 @@
-Hi 👋 My name is Durgesh Sejekar
+Hi 👋 My name is Lucky Raja
 ================================
 
 C/C++ programmer
